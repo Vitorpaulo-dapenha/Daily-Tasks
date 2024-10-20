@@ -26,7 +26,7 @@ O projeto está organizado da seguinte maneira:
 
 ## Como Executar o Projeto
 
-1. **Clone este repositório** em sua máquina local: git clone https://github.com/seu-usuario/seu-repositorio.git
+1. **Clone este repositório** em sua máquina local: git clone https://github.com/Vitorpaulo-dapenha/Daily-Tasks.git
 2. Abra o arquivo index.html diretamente no navegador ou use um servidor local:
 Se estiver usando o VSCode, instale a extensão Live Server e clique em "Go Live".
 Ou, use o http-server do Node.js: npm install -g http-server
